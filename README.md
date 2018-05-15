@@ -1,10 +1,10 @@
 # Je m'appelle Jeffpacito
 
 
-Twitter [@LolVEVO](https://twitter.com/LolVEVO)
+Twitter [@EuabVEVO](https://twitter.com/EuabVEVO)
 
 Henlo there. This is a mirror for all of my projects. It looks pretty plain and
-niche right now and so it should, 'cause it's a bloody template. I'll add custom
+cliché right now and so it should, cos it's a bloody template. I'll add custom
 styles and stuffses soon and maybe some shitty free domain. At that point I may
 as well self-host.
 
